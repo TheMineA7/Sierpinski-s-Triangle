@@ -1,4 +1,6 @@
-﻿using System;
+//Welcome to my program, this program creates Serpinski's Triangle.
+//Feel free to look through it and message me if you find things that can be improved.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
